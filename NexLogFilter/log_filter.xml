@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<logFilter>
+<openFile>D:\LogFilter_Project\TestLog\100\100.TXT</openFile>
+<savedPath>D:\LogFilter_Project\NexLogFilter</savedPath>
+<separatorB>[</separatorB>
+<separatorE>]</separatorE>
+<separatorM>:</separatorM>
+<allCategory enable="T" equal="F" lessThan="T" level="4"/>
+<category enable="T" equal="F" lessThan="T" level="4" name="ENGN"/>
+<category enable="T" equal="F" lessThan="T" level="4" name="PROT"/>
+<category enable="T" equal="F" lessThan="T" level="4" name="RFCH"/>
+<category enable="T" equal="F" lessThan="T" level="4" name=""/>
+</logFilter>

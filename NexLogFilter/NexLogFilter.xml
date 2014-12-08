@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\LogFilter_Project\NexLogFilter\NexLogFilter.jar</jar>
+  <outfile>D:\LogFilter_Project\새 폴더\NexLogFilter.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\junyoung.kim\Downloads\LogFilterIcon.ico</icon>
+  <classPath>
+    <mainClass>FilterFrame</mainClass>
+    <cp>.</cp>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.6.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.0.0.1</fileVersion>
+    <txtFileVersion>Ver 0.0.0.1</txtFileVersion>
+    <fileDescription>Log Filter 파일 입니다.</fileDescription>
+    <copyright>Nexstreaming</copyright>
+    <productVersion>0.0.0.1</productVersion>
+    <txtProductVersion>Ver 0.0.0.1</txtProductVersion>
+    <productName>NexLogFilter</productName>
+    <companyName>Nexstreaming</companyName>
+    <internalName>NexLogFilter</internalName>
+    <originalFilename>NexLogFilter.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
